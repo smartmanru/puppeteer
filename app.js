@@ -1,13 +1,15 @@
+var cve_prod=0
 var _=require('underscore')
 var puppeteer = require('puppeteer');
+var fs =require('fs');
 var cve_pr=0;
 var cvim_ve=[];
 var report=[];
 var  arr = require('./link');
 var aurl_cve=[]
+var s = require("underscore.string");
 var vm = this;
 var linkb=[];
-setTimeout(function(){
 (async () => {
   var browser = await puppeteer.launch(
     {headless:true,args: ['--no-sandbox', '--disable-setuid-sandbox']});
@@ -35,15 +37,17 @@ setTimeout(function(){
 //        console.log(url_cve);
 	await page.waitForSelector(prod, { timeout: 0 });
     	var cvim_vers = await page.$$eval(
-        vers, cvim_ve=>cvim_ve.map(link=>link.textContent));
+        vers, cvim_ve=>cvim_ve.map(linke=>linke.textContent));
 
-    	var cve_prod = await page.$$eval(
-        prod, cve_pr=>cve_pr.map(link=>link.textContent));
+    	 cve_prod =await page.$$eval(
+        prod, cve_pr=>cve_pr.map(linkd=>linkd.textContent));
         // console.log('Открываю страницу:' + linkb);
-        cve_pr=_.uniq(cve_pr).toString
-  var post=[cve_pr,[cvim_ve]]
-		var report=_.compact(post)
-	report.push(post)
+        var post=[cve_prod,cvim_vers];
+        console.log('post :', post);
+        
+		var report=(post);
+  console.log('report :', report);
+	report.push(post);
         // await browser.close()
 	}
     } catch (error) {
@@ -55,51 +59,12 @@ setTimeout(function(){
 
 
 // console.log(url_cve);
-aurl_cve.push({link:[url_cve]})
-
+// aurl_cve.push(linkb,[url_cve])
+console.log(post)
+console.table(report)
 }}
+
 )
 ();
-}, 1000);
-
-
-
-// 	let countel=await page.evaluate(()=> (document.querySelector("").children.length-1)/2 );
-// 	console.log(countel);
-// 	for (let d = 1;d<countel; d++){
-		
-
-// 		console.log(d)
-// console.table(await page.evaluate((d) =>(
-// 	document.querySelector("#vulnslisttable > tbody");
-// )));
-// 		console.log(link_cve)
-// 		// console.log(href_a);
-// 		// link_cve.push(href_a);
-// }
-// // 
-// await browser.close();
-// // }
-// catch(e){
-// console.log("error in page")}	
-// await browser.close();
-
-/*
-for (d=0;d<countel;d=d+2){
-	
-	setTimeout(function(){
-
-	await page.goto(link_cve,{waitUntil:'networkidle2'});
-	let product= await page.evaluate(()=> (document.querySelector("#vulnprodstable > tbody").children[i].children[3].textContent);
-	let version= await page.evaluate(()=> (document.querySelector("#vulnprodstable > tbody").children[i].children[4].textContent);
-		console.table([product,version])
-	await page.close()
-	,10000}
-}
-*/
-// (document.querySelector("#vulnslisttable > tbody").children.length-1)/2 //list cve search
-//V~await browser.close();
-// document.querySelector("#vulnslisttable > tbody").children[var i+2] //перечисление ссылок 
-// document.querySelector("#vulnslisttable > tbody").children[1].children[1].children[0].href //link
-// document.querySelector("#vulnprodstable > tbody").children[i].children[3].textContent //product
-// document.querySelector("#vulnprodstable > tbody").children[i].children[4].textContent //vesrion
+fs.appendFile("./endfile.txt",post);
+fs.appendFile("./8endfile.txt",report);
