@@ -1,9 +1,9 @@
 var _=require('underscore')
 var puppeteer = require('puppeteer');
 var  arr = require('./link');
-var link_cve=[]
+var aurl_cve=[]
 var vm = this;
-for (var i=0;i < 5;i++){
+for (let link of arr){
   setTimeout(function(){
 (async () => {
   var browser = await puppeteer.launch(
@@ -14,27 +14,32 @@ for (var i=0;i < 5;i++){
     
     try {
       // Попробуем перейти по URL
-      await page.goto(arr[i], {waitUntil: 'networkidle2'});
-      console.log('Открываю страницу:' + arr[i]);
+      await page.goto(link, {waitUntil: 'networkidle2'});
+      console.log('Открываю страницу:' + link);
       var postsSelector = '#vulnslisttable > tbody > tr > td > a';
       await page.waitForSelector(postsSelector, { timeout: 0 });
       var postUrls = await page.$$eval(
         postsSelector, cve_links=>cve_links.map(link=>link.href));
         var url_cve=_.compact(postUrls)
+        await browser.close()
         
         // console.log(postUrls);
     } catch (error) {
       console.log(`Не удалось открытm страницу: ${arr[i]} из-за ошибки: ${error}`);
+    
+      await browser.close()
     }
 // Найдём все ссылки на статьи   
 
 
 console.log(url_cve);
+aurl_cve.push({link:[url_cve]})
+
 }
 )
 ();
 }, 1000);
-url_cve.push(i.arr)
+
 }
 
 
