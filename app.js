@@ -10,6 +10,7 @@ var aurl_cve=[]
 var s = require("underscore.string");
 var vm = this;
 var linkb=[];
+var post=[];
 (async () => {
   var browser = await puppeteer.launch(
     {headless:true,args: ['--no-sandbox', '--disable-setuid-sandbox']});
@@ -62,9 +63,11 @@ var linkb=[];
 // aurl_cve.push(linkb,[url_cve])
 console.log(post)
 console.table(report)
-}}
-
-)
-();
 fs.appendFile("./endfile.txt",post);
 fs.appendFile("./8endfile.txt",report);
+}}
+
+)();
+
+
+
