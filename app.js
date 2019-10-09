@@ -34,6 +34,7 @@ console.log(url_cve);
 )
 ();
 }, 1000);
+url_cve.push(i.arr)
 }
 
 
