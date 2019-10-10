@@ -1,0 +1,37 @@
+[
+								Bluez							,
+								5.41							,https://www.cvedetails.com/cve/CVE-2018-10910/],[
+								Bluez							,
+								5.42							,https://www.cvedetails.com/cve/CVE-2018-10910/],[
+								Bluez							,
+								5.46							,https://www.cvedetails.com/cve/CVE-2018-10910/],[
+								Bluez							,
+								5.47							,https://www.cvedetails.com/cve/CVE-2018-10910/],[
+								Bluez							,
+								5.48							,https://www.cvedetails.com/cve/CVE-2018-10910/],[
+								Bluez							,
+								5.49							,https://www.cvedetails.com/cve/CVE-2018-10910/],[
+								Bluez							,
+								5.50							,https://www.cvedetails.com/cve/CVE-2018-10910/],[
+								Ubuntu Linux							,
+								18.04							,https://www.cvedetails.com/cve/CVE-2018-10910/],[
+								Bluez							,
+								5.46							,https://www.cvedetails.com/cve/CVE-2017-1000250/],[
+								Bluez							,
+								5.42							,https://www.cvedetails.com/cve/CVE-2016-9804/],[
+								Bluez							,
+								5.42							,https://www.cvedetails.com/cve/CVE-2016-9803/],[
+								Bluez							,
+								5.42							,https://www.cvedetails.com/cve/CVE-2016-9802/],[
+								Bluez							,
+								5.42							,https://www.cvedetails.com/cve/CVE-2016-9801/],[
+								Bluez							,
+								5.42							,https://www.cvedetails.com/cve/CVE-2016-9800/],[
+								Bluez							,
+								5.42							,https://www.cvedetails.com/cve/CVE-2016-9799/],[
+								Bluez							,
+								5.42							,https://www.cvedetails.com/cve/CVE-2016-9798/],[
+								Bluez							,
+								5.42							,https://www.cvedetails.com/cve/CVE-2016-9797/],[
+								Bluez							,
+								5.41							,https://www.cvedetails.com/cve/CVE-2016-7837/]

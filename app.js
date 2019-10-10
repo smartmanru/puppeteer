@@ -44,14 +44,14 @@ var post=[];
         prod, cve_pr=>cve_pr.map(linkd=>linkd.textContent));
         // console.log('Открываю страницу:' + linkb);
         for (var co=0;co <cvim_vers.length;co++){
-          var post=[cve_prod[co],cvim_vers[co],linkb];
+          var post=["["+cve_prod[co],cvim_vers[co],linkb+"]"];
           
           report.push(post);
           
           console.log('post :', post);
         }
         
-  console.log('report :', report);
+  // console.log('report :', report);
         // await browser.close()
 	}
     } catch (error) {
@@ -66,7 +66,7 @@ var post=[];
 // aurl_cve.push(linkb,[url_cve])
 console.log(post)
 console.table(report)
-fs.appendFile("./endfile.txt",post, function (err) {
+fs.writeFile("./endfile.txt",report, function (err) {
   if (err) throw err;
   console.log('Saved!');
 });

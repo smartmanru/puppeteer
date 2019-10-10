@@ -1,0 +1,1331 @@
+[
+								Festival							,
+								1.4.1							,https://www.cvedetails.com/cve/CVE-2010-3996/],[
+								Festival							,
+								1.4.2							,https://www.cvedetails.com/cve/CVE-2010-3996/],[
+								Festival							,
+								1.4.3							,https://www.cvedetails.com/cve/CVE-2010-3996/],[
+								Festival							,
+								1.95							,https://www.cvedetails.com/cve/CVE-2010-3996/],[
+								Festival							,
+								1.96							,https://www.cvedetails.com/cve/CVE-2010-3996/],[
+								Festival							,
+								2.0.95							,https://www.cvedetails.com/cve/CVE-2010-3996/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.3							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.4							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.4.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.6							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.6.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.6.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.7							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.8							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.8.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Oncommand Api Services							,
+								-							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Oncommand Insight							,
+								-							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Oncommand Workflow Automation							,
+								-							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Service Level Manager							,
+								-							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Snapcenter							,
+								-							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Storage Automation Store							,
+								-							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Api Gateway							,
+								11.1.2.4.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Autovue Vuelink Integration							,
+								21.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Autovue Vuelink Integration							,
+								21.0.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Banking Platform							,
+								2.6.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Banking Platform							,
+								2.6.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Banking Platform							,
+								2.6.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Bi Publisher							,
+								11.1.1.7.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Bi Publisher							,
+								11.1.1.9.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Bi Publisher							,
+								12.2.1.3.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Bi Publisher							,
+								12.2.1.4.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Communications Converged Application Server - Service Controller							,
+								6.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Communications Messaging Server							,
+								6.3							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Communications Messaging Server							,
+								7.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Communications Messaging Server							,
+								7.0.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Communications Messaging Server							,
+								8.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Communications Online Mediation Controller							,
+								6.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Communications Pricing Design Center							,
+								11.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Communications Pricing Design Center							,
+								12.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Communications Service Broker							,
+								6.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Configuration Manager							,
+								12.1.2.0.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Configuration Manager							,
+								12.1.2.0.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Data Quality							,
+								12.2.1.3.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Manager Base Platform							,
+								12.1.0.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Manager Base Platform							,
+								13.2.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Manager For Fusion Middleware							,
+								12.1.0.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Manager For Fusion Middleware							,
+								13.2.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Manager For Mysql Database							,
+								13.2.2.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Manager For Oracle Database							,
+								12.1.0.8							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Manager For Oracle Database							,
+								13.2.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Manager For Peoplesoft							,
+								13.1.1.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Manager For Peoplesoft							,
+								13.2.1.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Analytical Applications Infrastructure							,
+								8.0.0.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Analytical Applications Infrastructure							,
+								8.0.1.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Analytical Applications Infrastructure							,
+								8.0.2.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Analytical Applications Infrastructure							,
+								8.0.3.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Analytical Applications Infrastructure							,
+								8.0.4.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Analytical Applications Infrastructure							,
+								8.0.5.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Behavior Detection Platform							,
+								6.1.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Hedge Management And Ifrs Valuations							,
+								8.0.4							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Hedge Management And Ifrs Valuations							,
+								8.0.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Loan Loss Forecasting And Provisioning							,
+								8.0.4							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Loan Loss Forecasting And Provisioning							,
+								8.0.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Profitability Management							,
+								6.1.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Profitability Management							,
+								8.0.0.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Profitability Management							,
+								8.0.1.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Profitability Management							,
+								8.0.2.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Profitability Management							,
+								8.0.3.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Profitability Management							,
+								8.0.4.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Profitability Management							,
+								8.0.5.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Flexcube Investor Servicing							,
+								12.0.4							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Flexcube Investor Servicing							,
+								12.1.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Flexcube Investor Servicing							,
+								12.3.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Flexcube Investor Servicing							,
+								12.4.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Flexcube Investor Servicing							,
+								14.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Fusion Middleware Mapviewer							,
+								12.2.1.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Fusion Middleware Mapviewer							,
+								12.2.1.3							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Goldengate Application Adapters							,
+								12.3.2.1.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Identity Analytics							,
+								11.1.1.5.8							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Identity Management Suite							,
+								11.1.2.3.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Identity Management Suite							,
+								12.2.1.3.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Insurance Calculation Engine							,
+								10.1.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Insurance Calculation Engine							,
+								10.2.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Insurance Policy Administration							,
+								10.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Insurance Policy Administration							,
+								10.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Insurance Policy Administration							,
+								10.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Insurance Policy Administration							,
+								11.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Insurance Rules Palette							,
+								10.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Insurance Rules Palette							,
+								10.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Insurance Rules Palette							,
+								10.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Insurance Rules Palette							,
+								11.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Insurance Rules Palette							,
+								11.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Jd Edwards Enterpriseone Tools							,
+								9.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Jdeveloper							,
+								11.1.1.9.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Jdeveloper							,
+								12.1.3.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Jdeveloper							,
+								12.2.1.3.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Mysql Enterprise Monitor							,
+								3.4.2.4181							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Peoplesoft Enterprise Fin Install							,
+								9.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								10.4.7							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.1.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.1.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.2.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.2.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.2.3							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.2.4							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.2.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.2.6							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.2.7							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.2.8							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.2.9							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.2.10							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation Connector For Siebel							,
+								10.4.6							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								10.4.7							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.1.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.1.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.2.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.2.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.2.3							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.2.4							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.2.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.2.6							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.2.7							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.2.8							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.2.9							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.2.10							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Clearance Optimization Engine							,
+								14.0.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Extract Transform And Load							,
+								13.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Extract Transform And Load							,
+								13.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Extract Transform And Load							,
+								13.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Integration Bus							,
+								14.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Integration Bus							,
+								14.1.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Integration Bus							,
+								15.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Integration Bus							,
+								16.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Open Commerce Platform							,
+								5.3.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Open Commerce Platform							,
+								6.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Open Commerce Platform							,
+								6.0.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Predictive Application Server							,
+								15.0.3							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Siebel Ui Framework							,
+								18.7							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Siebel Ui Framework							,
+								18.8							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Siebel Ui Framework							,
+								18.9							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Soa Suite							,
+								12.1.3.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Soa Suite							,
+								12.2.2.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Tape Library Acsls							,
+								8.4							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Utilities Work And Asset Management							,
+								1.9.1.2.12							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux							,
+								6.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux							,
+								6.7							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux							,
+								7.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux							,
+								7.3							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux							,
+								7.4							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux							,
+								7.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux							,
+								7.6							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux Desktop							,
+								7.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux Server							,
+								7.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux Server Aus							,
+								7.4							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux Server Aus							,
+								7.6							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux Server Eus							,
+								7.4							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux Server Eus							,
+								7.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux Server Eus							,
+								7.6							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux Server Tus							,
+								7.4							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux Server Tus							,
+								7.6							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux Workstation							,
+								7.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.0.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.3							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.4							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.4.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.6							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.6.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.6.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.7							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.8							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Log4j							,
+								2.8.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Oncommand Api Services							,
+								-							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Oncommand Insight							,
+								-							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Oncommand Workflow Automation							,
+								-							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Service Level Manager							,
+								-							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Snapcenter							,
+								-							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Storage Automation Store							,
+								-							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Api Gateway							,
+								11.1.2.4.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Autovue Vuelink Integration							,
+								21.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Autovue Vuelink Integration							,
+								21.0.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Banking Platform							,
+								2.6.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Banking Platform							,
+								2.6.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Banking Platform							,
+								2.6.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Bi Publisher							,
+								11.1.1.7.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Bi Publisher							,
+								11.1.1.9.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Bi Publisher							,
+								12.2.1.3.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Bi Publisher							,
+								12.2.1.4.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Communications Converged Application Server - Service Controller							,
+								6.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Communications Messaging Server							,
+								6.3							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Communications Messaging Server							,
+								7.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Communications Messaging Server							,
+								7.0.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Communications Messaging Server							,
+								8.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Communications Online Mediation Controller							,
+								6.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Communications Pricing Design Center							,
+								11.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Communications Pricing Design Center							,
+								12.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Communications Service Broker							,
+								6.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Configuration Manager							,
+								12.1.2.0.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Configuration Manager							,
+								12.1.2.0.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Data Quality							,
+								12.2.1.3.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Manager Base Platform							,
+								12.1.0.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Manager Base Platform							,
+								13.2.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Manager For Fusion Middleware							,
+								12.1.0.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Manager For Fusion Middleware							,
+								13.2.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Manager For Mysql Database							,
+								13.2.2.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Manager For Oracle Database							,
+								12.1.0.8							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Manager For Oracle Database							,
+								13.2.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Manager For Peoplesoft							,
+								13.1.1.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Manager For Peoplesoft							,
+								13.2.1.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Analytical Applications Infrastructure							,
+								8.0.0.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Analytical Applications Infrastructure							,
+								8.0.1.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Analytical Applications Infrastructure							,
+								8.0.2.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Analytical Applications Infrastructure							,
+								8.0.3.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Analytical Applications Infrastructure							,
+								8.0.4.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Analytical Applications Infrastructure							,
+								8.0.5.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Behavior Detection Platform							,
+								6.1.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Hedge Management And Ifrs Valuations							,
+								8.0.4							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Hedge Management And Ifrs Valuations							,
+								8.0.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Loan Loss Forecasting And Provisioning							,
+								8.0.4							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Loan Loss Forecasting And Provisioning							,
+								8.0.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Profitability Management							,
+								6.1.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Profitability Management							,
+								8.0.0.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Profitability Management							,
+								8.0.1.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Profitability Management							,
+								8.0.2.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Profitability Management							,
+								8.0.3.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Profitability Management							,
+								8.0.4.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Financial Services Profitability Management							,
+								8.0.5.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Flexcube Investor Servicing							,
+								12.0.4							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Flexcube Investor Servicing							,
+								12.1.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Flexcube Investor Servicing							,
+								12.3.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Flexcube Investor Servicing							,
+								12.4.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Flexcube Investor Servicing							,
+								14.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Fusion Middleware Mapviewer							,
+								12.2.1.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Fusion Middleware Mapviewer							,
+								12.2.1.3							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Goldengate Application Adapters							,
+								12.3.2.1.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Identity Analytics							,
+								11.1.1.5.8							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Identity Management Suite							,
+								11.1.2.3.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Identity Management Suite							,
+								12.2.1.3.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Insurance Calculation Engine							,
+								10.1.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Insurance Calculation Engine							,
+								10.2.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Insurance Policy Administration							,
+								10.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Insurance Policy Administration							,
+								10.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Insurance Policy Administration							,
+								10.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Insurance Policy Administration							,
+								11.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Insurance Rules Palette							,
+								10.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Insurance Rules Palette							,
+								10.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Insurance Rules Palette							,
+								10.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Insurance Rules Palette							,
+								11.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Insurance Rules Palette							,
+								11.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Jd Edwards Enterpriseone Tools							,
+								9.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Jdeveloper							,
+								11.1.1.9.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Jdeveloper							,
+								12.1.3.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Jdeveloper							,
+								12.2.1.3.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Mysql Enterprise Monitor							,
+								3.4.2.4181							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Peoplesoft Enterprise Fin Install							,
+								9.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								10.4.7							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.1.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.1.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.2.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.2.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.2.3							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.2.4							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.2.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.2.6							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.2.7							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.2.8							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.2.9							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation							,
+								12.2.10							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation Connector For Siebel							,
+								10.4.6							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								10.4.7							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.1.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.1.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.2.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.2.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.2.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.2.3							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.2.4							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.2.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.2.6							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.2.7							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.2.8							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.2.9							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Policy Automation For Mobile Devices							,
+								12.2.10							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Clearance Optimization Engine							,
+								14.0.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Extract Transform And Load							,
+								13.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Extract Transform And Load							,
+								13.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Extract Transform And Load							,
+								13.2							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Integration Bus							,
+								14.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Integration Bus							,
+								14.1.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Integration Bus							,
+								15.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Integration Bus							,
+								16.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Open Commerce Platform							,
+								5.3.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Open Commerce Platform							,
+								6.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Open Commerce Platform							,
+								6.0.1							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Retail Predictive Application Server							,
+								15.0.3							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Siebel Ui Framework							,
+								18.7							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Siebel Ui Framework							,
+								18.8							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Siebel Ui Framework							,
+								18.9							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Soa Suite							,
+								12.1.3.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Soa Suite							,
+								12.2.2.0.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Tape Library Acsls							,
+								8.4							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Utilities Work And Asset Management							,
+								1.9.1.2.12							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux							,
+								6.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux							,
+								6.7							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux							,
+								7.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux							,
+								7.3							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux							,
+								7.4							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux							,
+								7.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux							,
+								7.6							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux Desktop							,
+								7.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux Server							,
+								7.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux Server Aus							,
+								7.4							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux Server Aus							,
+								7.6							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux Server Eus							,
+								7.4							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux Server Eus							,
+								7.5							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux Server Eus							,
+								7.6							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux Server Tus							,
+								7.4							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux Server Tus							,
+								7.6							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Enterprise Linux Workstation							,
+								7.0							,https://www.cvedetails.com/cve/CVE-2017-5645/],[
+								Bash							,
+								1.14.0							,https://www.cvedetails.com/cve/CVE-1999-0491/],[
+								Bash							,
+								1.14.1							,https://www.cvedetails.com/cve/CVE-1999-0491/],[
+								Bash							,
+								1.14.2							,https://www.cvedetails.com/cve/CVE-1999-0491/],[
+								Bash							,
+								1.14.3							,https://www.cvedetails.com/cve/CVE-1999-0491/],[
+								Bash							,
+								1.14.4							,https://www.cvedetails.com/cve/CVE-1999-0491/],[
+								Bash							,
+								1.14.5							,https://www.cvedetails.com/cve/CVE-1999-0491/],[
+								Bash							,
+								1.14.6							,https://www.cvedetails.com/cve/CVE-1999-0491/],[
+								Bash							,
+								1.14.7							,https://www.cvedetails.com/cve/CVE-1999-0491/],[
+								Bash							,
+								2.0							,https://www.cvedetails.com/cve/CVE-1999-0491/],[
+								Bash							,
+								2.01							,https://www.cvedetails.com/cve/CVE-1999-0491/],[
+								Bash							,
+								2.01.1							,https://www.cvedetails.com/cve/CVE-1999-0491/],[
+								Bash							,
+								2.02							,https://www.cvedetails.com/cve/CVE-1999-0491/],[
+								Bash							,
+								2.02.1							,https://www.cvedetails.com/cve/CVE-1999-0491/],[
+								Bash							,
+								2.03							,https://www.cvedetails.com/cve/CVE-1999-0491/],[
+								Bash							,
+								2.04							,https://www.cvedetails.com/cve/CVE-1999-0491/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-1999-0491/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-1999-0491/],[
+								Bash							,
+								1.14.0							,https://www.cvedetails.com/cve/CVE-1999-1383/],[
+								Bash							,
+								1.14.1							,https://www.cvedetails.com/cve/CVE-1999-1383/],[
+								Bash							,
+								1.14.2							,https://www.cvedetails.com/cve/CVE-1999-1383/],[
+								Bash							,
+								1.14.3							,https://www.cvedetails.com/cve/CVE-1999-1383/],[
+								Bash							,
+								1.14.4							,https://www.cvedetails.com/cve/CVE-1999-1383/],[
+								Bash							,
+								1.14.5							,https://www.cvedetails.com/cve/CVE-1999-1383/],[
+								Bash							,
+								1.14.6							,https://www.cvedetails.com/cve/CVE-1999-1383/],[
+								Tcsh							,
+								6.05							,https://www.cvedetails.com/cve/CVE-1999-1383/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-2010-0002/],[
+								Bash							,
+								3.0							,https://www.cvedetails.com/cve/CVE-2010-0002/],[
+								Bash							,
+								3.2							,https://www.cvedetails.com/cve/CVE-2010-0002/],[
+								Bash							,
+								3.2.48							,https://www.cvedetails.com/cve/CVE-2010-0002/],[
+								Bash							,
+								4.0							,https://www.cvedetails.com/cve/CVE-2010-0002/],[
+								Bash							,
+								4.2							,https://www.cvedetails.com/cve/CVE-2012-3410/],[
+								Bash							,
+								4.2							,https://www.cvedetails.com/cve/CVE-2012-6711/],[
+								Bash							,
+								4.2.53							,https://www.cvedetails.com/cve/CVE-2012-6711/],[
+								Bash							,
+								4.3							,https://www.cvedetails.com/cve/CVE-2012-6711/],[
+								Enterprise Linux							,
+								7.0							,https://www.cvedetails.com/cve/CVE-2012-6711/],[
+								Bash							,
+								1.14.0							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								1.14.1							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								1.14.2							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								1.14.3							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								1.14.4							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								1.14.5							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								1.14.6							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								1.14.7							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								2.01							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								2.01.1							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								2.02							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								2.02.1							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								2.03							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								2.04							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								3.0							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								3.0.16							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								3.1							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								3.2							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								3.2.48							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								4.0							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								4.0							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								4.1							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								4.2							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								4.3							,https://www.cvedetails.com/cve/CVE-2014-6271/],[
+								Bash							,
+								1.14.0							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								1.14.1							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								1.14.2							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								1.14.3							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								1.14.4							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								1.14.5							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								1.14.6							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								1.14.7							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								2.01							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								2.01.1							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								2.02							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								2.02.1							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								2.03							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								2.04							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								3.0							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								3.0.16							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								3.1							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								3.2							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								3.2.48							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								4.0							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								4.0							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								4.1							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								4.2							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								4.3							,https://www.cvedetails.com/cve/CVE-2014-6277/],[
+								Bash							,
+								1.14.0							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								1.14.1							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								1.14.2							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								1.14.3							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								1.14.4							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								1.14.5							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								1.14.6							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								1.14.7							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								2.01							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								2.01.1							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								2.02							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								2.02.1							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								2.03							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								2.04							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								3.0							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								3.0.16							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								3.1							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								3.2							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								3.2.48							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								4.0							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								4.0							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								4.1							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								4.2							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								4.3							,https://www.cvedetails.com/cve/CVE-2014-6278/],[
+								Bash							,
+								1.14.0							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								1.14.1							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								1.14.2							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								1.14.3							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								1.14.4							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								1.14.5							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								1.14.6							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								1.14.7							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								2.01							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								2.01.1							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								2.02							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								2.02.1							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								2.03							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								2.04							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								3.0							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								3.0.16							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								3.1							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								3.2							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								3.2.48							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								4.0							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								4.0							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								4.1							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								4.2							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								4.3							,https://www.cvedetails.com/cve/CVE-2014-7169/],[
+								Bash							,
+								1.14.0							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								1.14.1							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								1.14.2							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								1.14.3							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								1.14.4							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								1.14.5							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								1.14.6							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								1.14.7							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								2.01							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								2.01.1							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								2.02							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								2.02.1							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								2.03							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								2.04							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								3.0							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								3.0.16							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								3.1							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								3.2							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								3.2.48							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								4.0							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								4.0							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								4.1							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								4.2							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								4.3							,https://www.cvedetails.com/cve/CVE-2014-7186/],[
+								Bash							,
+								1.14.0							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								1.14.1							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								1.14.2							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								1.14.3							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								1.14.4							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								1.14.5							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								1.14.6							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								1.14.7							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								2.01							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								2.01.1							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								2.02							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								2.02.1							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								2.03							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								2.04							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								3.0							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								3.0.16							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								3.1							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								3.2							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								3.2.48							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								4.0							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								4.0							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								4.1							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								4.2							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								4.3							,https://www.cvedetails.com/cve/CVE-2014-7187/],[
+								Bash							,
+								4.3							,https://www.cvedetails.com/cve/CVE-2016-0634/],[
+								Fedora							,
+								23							,https://www.cvedetails.com/cve/CVE-2016-7543/],[
+								Fedora							,
+								24							,https://www.cvedetails.com/cve/CVE-2016-7543/],[
+								Fedora							,
+								25							,https://www.cvedetails.com/cve/CVE-2016-7543/],[
+								Bash							,
+								4.3							,https://www.cvedetails.com/cve/CVE-2016-7543/],[
+								Debian Linux							,
+								8.0							,https://www.cvedetails.com/cve/CVE-2016-9401/],[
+								Bash							,
+															,https://www.cvedetails.com/cve/CVE-2016-9401/],[
+								Enterprise Linux Desktop							,
+								6.0							,https://www.cvedetails.com/cve/CVE-2016-9401/],[
+								Enterprise Linux Desktop							,
+								7.0							,https://www.cvedetails.com/cve/CVE-2016-9401/],[
+								Enterprise Linux Server							,
+								6.0							,https://www.cvedetails.com/cve/CVE-2016-9401/],[
+								Enterprise Linux Server							,
+								7.0							,https://www.cvedetails.com/cve/CVE-2016-9401/],[
+								Enterprise Linux Server Aus							,
+								7.4							,https://www.cvedetails.com/cve/CVE-2016-9401/],[
+								Enterprise Linux Server Aus							,
+								7.6							,https://www.cvedetails.com/cve/CVE-2016-9401/],[
+								Enterprise Linux Server Eus							,
+								7.4							,https://www.cvedetails.com/cve/CVE-2016-9401/],[
+								Enterprise Linux Server Eus							,
+								7.5							,https://www.cvedetails.com/cve/CVE-2016-9401/],[
+								Enterprise Linux Server Eus							,
+								7.6							,https://www.cvedetails.com/cve/CVE-2016-9401/],[
+								Enterprise Linux Server Tus							,
+								7.6							,https://www.cvedetails.com/cve/CVE-2016-9401/],[
+								Enterprise Linux Workstation							,
+								6.0							,https://www.cvedetails.com/cve/CVE-2016-9401/],[
+								Enterprise Linux Workstation							,
+								7.0							,https://www.cvedetails.com/cve/CVE-2016-9401/],[
+								Bash							,
+								4.4							,https://www.cvedetails.com/cve/CVE-2017-5932/],[
+								Debian Linux							,
+								8.0							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								1.14.0							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								1.14.1							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								1.14.2							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								1.14.3							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								1.14.4							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								1.14.5							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								1.14.6							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								1.14.7							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								2.0							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								2.01							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								2.01.1							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								2.02							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								2.02.1							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								2.03							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								2.04							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								2.05							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								3.0							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								3.0.16							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								3.1							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								3.2							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								3.2.48							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								3.2.57							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								4.0							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								4.0							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								4.1							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								4.2							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								4.2.53							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								4.3							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								4.3.30							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Bash							,
+								4.4							,https://www.cvedetails.com/cve/CVE-2019-9924/],[
+								Cron							,
+								3.0pl1-128.							,https://www.cvedetails.com/cve/CVE-2017-9525/],[
+								GCC							,
+								2.7.2							,https://www.cvedetails.com/cve/CVE-1999-1439/],[
+								Libgcrypt20							,
+								1.6.3-2+deb8u4							,https://www.cvedetails.com/cve/CVE-2019-13627/],[
+								Libgcrypt20							,
+								1.7.6-2+deb9u3							,https://www.cvedetails.com/cve/CVE-2019-13627/],[
+								Libgcrypt20							,
+								1.8.4-5							,https://www.cvedetails.com/cve/CVE-2019-13627/],[
+								Leap							,
+								15.0							,https://www.cvedetails.com/cve/CVE-2019-13627/],[
+								Login							,
+								1.0							,https://www.cvedetails.com/cve/CVE-2007-4342/],[
+								M4							,
+								1.4.1							,https://www.cvedetails.com/cve/CVE-2008-1688/],[
+								M4							,
+								1.4.2							,https://www.cvedetails.com/cve/CVE-2008-1688/],[
+								M4							,
+								1.4.3							,https://www.cvedetails.com/cve/CVE-2008-1688/],[
+								M4							,
+								1.4.4							,https://www.cvedetails.com/cve/CVE-2008-1688/],[
+								M4							,
+								1.4.5							,https://www.cvedetails.com/cve/CVE-2008-1688/],[
+								M4							,
+								1.4.6							,https://www.cvedetails.com/cve/CVE-2008-1688/],[
+								M4							,
+								1.4.7							,https://www.cvedetails.com/cve/CVE-2008-1688/],[
+								M4							,
+								1.4.8							,https://www.cvedetails.com/cve/CVE-2008-1688/],[
+								M4							,
+								1.4.9							,https://www.cvedetails.com/cve/CVE-2008-1688/],[
+								M4							,
+								1.4.10							,https://www.cvedetails.com/cve/CVE-2008-1688/],[
+								M4							,
+								1.4.10							,https://www.cvedetails.com/cve/CVE-2008-1687/],[
+								Make							,
+								3.77.44							,https://www.cvedetails.com/cve/CVE-2000-0151/],[
+								Man-db							,
+								2.7.6.1							,https://www.cvedetails.com/cve/CVE-2015-1336/],[
+								Mime-support							,
+								3.52-1							,https://www.cvedetails.com/cve/CVE-2014-7209/],[
+								Mime-support							,
+								3.9							,https://www.cvedetails.com/cve/CVE-2003-0214/],[
+								Mime-support							,
+								3.10							,https://www.cvedetails.com/cve/CVE-2003-0214/],[
+								Mime-support							,
+								3.11							,https://www.cvedetails.com/cve/CVE-2003-0214/],[
+								Mime-support							,
+								3.12							,https://www.cvedetails.com/cve/CVE-2003-0214/],[
+								Mime-support							,
+								3.13							,https://www.cvedetails.com/cve/CVE-2003-0214/],[
+								Mime-support							,
+								3.14							,https://www.cvedetails.com/cve/CVE-2003-0214/],[
+								Mime-support							,
+								3.15							,https://www.cvedetails.com/cve/CVE-2003-0214/],[
+								Mime-support							,
+								3.16							,https://www.cvedetails.com/cve/CVE-2003-0214/],[
+								Mime-support							,
+								3.17							,https://www.cvedetails.com/cve/CVE-2003-0214/],[
+								Mime-support							,
+								3.18							,https://www.cvedetails.com/cve/CVE-2003-0214/],[
+								Mime-support							,
+								3.19							,https://www.cvedetails.com/cve/CVE-2003-0214/],[
+								Mime-support							,
+								3.20							,https://www.cvedetails.com/cve/CVE-2003-0214/],[
+								Mime-support							,
+								3.21							,https://www.cvedetails.com/cve/CVE-2003-0214/],[
+								Python-imaging							,
+								-							,https://www.cvedetails.com/cve/CVE-2014-3589/],[
+								Opensuse							,
+								13.2							,https://www.cvedetails.com/cve/CVE-2014-3589/],[
+								Pillow							,
+								2.3.0							,https://www.cvedetails.com/cve/CVE-2014-3589/],[
+								Pillow							,
+								2.3.1							,https://www.cvedetails.com/cve/CVE-2014-3589/],[
+								Pillow							,
+								2.5.0							,https://www.cvedetails.com/cve/CVE-2014-3589/],[
+								Pillow							,
+								2.5.1							,https://www.cvedetails.com/cve/CVE-2014-3589/],[
+								Pillow							,
+								2.5.2							,https://www.cvedetails.com/cve/CVE-2014-3589/],[
+								Rename							,
+								1.0							,https://www.cvedetails.com/cve/CVE-2015-4703/],[
+								Libtirpc							,
+								1.0.1							,https://www.cvedetails.com/cve/CVE-2017-8779/],[
+								Ntirpc							,
+								1.4.3							,https://www.cvedetails.com/cve/CVE-2017-8779/],[
+								Rpcbind							,
+								0.2.4							,https://www.cvedetails.com/cve/CVE-2017-8779/],[
+								Ubuntu Linux							,
+								12.04							,https://www.cvedetails.com/cve/CVE-2015-7236/],[
+								Ubuntu Linux							,
+								14.04							,https://www.cvedetails.com/cve/CVE-2015-7236/],[
+								Ubuntu Linux							,
+								15.04							,https://www.cvedetails.com/cve/CVE-2015-7236/],[
+								Debian Linux							,
+								7.0							,https://www.cvedetails.com/cve/CVE-2015-7236/],[
+								Solaris Operating System							,
+								10							,https://www.cvedetails.com/cve/CVE-2015-7236/],[
+								Solaris Operating System							,
+								11.3							,https://www.cvedetails.com/cve/CVE-2015-7236/],[
+								Rpcbind							,
+								0.2.1							,https://www.cvedetails.com/cve/CVE-2015-7236/],[
+								Sudo							,
+								1.8.20							,https://www.cvedetails.com/cve/CVE-2017-1000367/]
