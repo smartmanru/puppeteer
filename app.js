@@ -70,10 +70,7 @@ fs.appendFile("./endfile.txt",post, function (err) {
   if (err) throw err;
   console.log('Saved!');
 });
-fs.appendFile("./8endfile.txt",report, function (err) {
-  if (err) throw err;
-  console.log('Saved!');
-});
+
 }}
 
 )();
