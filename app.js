@@ -63,8 +63,14 @@ var post=[];
 // aurl_cve.push(linkb,[url_cve])
 console.log(post)
 console.table(report)
-fs.appendFile("./endfile.txt",post);
-fs.appendFile("./8endfile.txt",report);
+fs.appendFile("./endfile.txt",post, function (err) {
+  if (err) throw err;
+  console.log('Saved!');
+});
+fs.appendFile("./8endfile.txt",report, function (err) {
+  if (err) throw err;
+  console.log('Saved!');
+});
 }}
 
 )();
