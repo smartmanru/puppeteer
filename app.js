@@ -43,12 +43,15 @@ var post=[];
     	 cve_prod =await page.$$eval(
         prod, cve_pr=>cve_pr.map(linkd=>linkd.textContent));
         // console.log('Открываю страницу:' + linkb);
-        var post=[cve_prod,cvim_vers];
-        console.log('post :', post);
+        for (var co=0;co <cvim_vers.length;co++){
+          var post=[cve_prod[co],cvim_vers[co]];
+          
+          report.push(post);
+          
+          console.log('post :', post);
+        }
         
-		var report=(post);
   console.log('report :', report);
-	report.push(post);
         // await browser.close()
 	}
     } catch (error) {
