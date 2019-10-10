@@ -44,7 +44,7 @@ var post=[];
         prod, cve_pr=>cve_pr.map(linkd=>linkd.textContent));
         // console.log('Открываю страницу:' + linkb);
         for (var co=0;co <cvim_vers.length;co++){
-          var post=[cve_prod[co],cvim_vers[co]];
+          var post=[cve_prod[co],cvim_vers[co],linkb];
           
           report.push(post);
           
